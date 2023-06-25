@@ -1,0 +1,2 @@
+# StirBank-Customer-Targeting-Predictor
+ A data-driven system leveraging machine learning techniques to predict the likelihood of StirBank customers setting up a regular savings deposit after a marketing call. The aim is to enhance marketing efficiency, reduce costs, and improve customer experience by targeting the most responsive customers. The system is trained on data describing 8000 customers, including their responses to previous marketing attempts.
